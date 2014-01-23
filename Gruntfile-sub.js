@@ -14,5 +14,5 @@ module.exports = function(grunt) {
 
   // Load Grunt plugin(s).
   // (note that grunt.loadNpmTasks won't work in this scenario)
-  grunt.loadTasks('../node_modules/grunt-contrib-copy/tasks');
+  grunt.loadTasks('../../node_modules/grunt-contrib-copy/tasks');
 };

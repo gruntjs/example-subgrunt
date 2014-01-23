@@ -11,7 +11,7 @@ module.exports = function(grunt) {
         options: {
           gruntfile: 'Gruntfile-sub.js',
         },
-        src: '???/',
+        src: 'fixtures/*',
       },
     },
   });
