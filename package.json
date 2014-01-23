@@ -1,0 +1,17 @@
+{
+  "name": "example-subgrunt",
+  "version": "0.1.0",
+  "description": "Run a Gruntfile in multiple subdirectories.",
+  "private": true,
+  "author": "\"Cowboy\" Ben Alman (http://benalman.com/)",
+  "homepage": "http://gruntjs.com/",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/gruntjs/example-subgrunt.git"
+  },
+  "devDependencies": {
+    "grunt": "~0.4.2",
+    "grunt-contrib-copy": "~0.5.0",
+    "grunt-contrib-clean": "~0.5.0"
+  }
+}
